@@ -1,0 +1,17 @@
+
+*{
+    background-color: blueviolet;
+}
+.souDivClasse{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(235, 235, 233);
+}
+#souDivID{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+p.souDivClasse{
+    font-size: 28px;
+}
